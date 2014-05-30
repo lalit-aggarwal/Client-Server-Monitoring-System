@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Client_PC">
+</Property><Property Name="Solution File" Value="D:\Lalit\Personal\My_projects\MINI\client\Client_PC.sln">
+</Property><Property Name="User Options File" Value="D:\Lalit\Personal\My_projects\MINI\client\Client_PC.suo">
+</Property><Property Name="Date" Value="Tuesday, March 05, 2013">
+</Property><Property Name="Time" Value="1:14 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Client_PC.sln" Description="File successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Client_PC.suo" Description="File successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC.suo">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Client_PC.csproj" Description="Project file successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC\Client_PC.csproj">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Form1.cs" Description="File successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Form1.Designer.cs" Description="File successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Program.cs" Description="File successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC\Program.cs">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Properties\Settings.settings" Description="File successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Form1.resx" Description="File successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Properties\Resources.resx" Description="File successfully backed up as D:\Lalit\Personal\My_projects\MINI\client\Backup\Client_PC\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Client_PC.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Client_PC" Source="Client_PC\Client_PC.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Client_PC.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Client_PC.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Client_PC" Source="Client_PC\Client_PC.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
